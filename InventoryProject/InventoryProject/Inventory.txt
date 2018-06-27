@@ -8,3 +8,14 @@ Football Nike Cleats Black 25
 Baseball Demarini Bat Orange 50
 Basketball Nike Shoes Black 40
 Basketball Nike Socks White 3
+Soccer Nike Shinguard Red 5
+Soccer Nike Shinguard White 5
+Basketball Nike Shirt White 10
+Basketball Nike Shirt Black 10
+Basketball Nike Shirt Red 10
+Basketball Nike Shirt Blue 10
+Basketball Nike Shirt Yellow 10
+Soccer Nike Shirt Yellow 10
+Football Rawlings Helmet White 200
+Football DNA Helmet Black 200
+Football Schutt Pads Black 200
