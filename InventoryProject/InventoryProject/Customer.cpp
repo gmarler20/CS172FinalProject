@@ -29,7 +29,7 @@ Customer::Customer(string a, string b, string c, string d, string e, string f, s
 
 int Customer::IDPool = 1000;
 
-// Created with help of Chapter 04B video about static member variables
+// Created with help of Chapter 04B panopto video about static member variables
   void Customer::setIDPool(int ID) {
 	IDPool = ID;
  }
