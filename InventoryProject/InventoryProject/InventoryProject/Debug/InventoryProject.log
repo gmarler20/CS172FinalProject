@@ -1,0 +1,11 @@
+﻿  InventoryProject.cpp
+c:\users\cathy\desktop\inventoryproject\inventoryproject\inventoryproject.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\inventoryproject\inventoryproject\inventoryproject.cpp(110): warning C4101: 'ID': unreferenced local variable
+c:\users\cathy\desktop\inventoryproject\inventoryproject\inventoryproject.cpp(146): warning C4018: '<=': signed/unsigned mismatch
+c:\users\cathy\desktop\inventoryproject\inventoryproject\inventoryproject.cpp(148): warning C4018: '<=': signed/unsigned mismatch
+c:\users\cathy\desktop\inventoryproject\inventoryproject\inventoryproject.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\inventoryproject\inventoryproject\inventoryproject.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\inventoryproject\inventoryproject\inventoryproject.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\cathy\desktop\inventoryproject\inventoryproject\inventoryproject.cpp(222): warning C4018: '<=': signed/unsigned mismatch
+c:\users\cathy\desktop\inventoryproject\inventoryproject\inventoryproject.cpp(225): warning C4018: '<=': signed/unsigned mismatch
+  InventoryProject.vcxproj -> C:\Users\cathy\Desktop\InventoryProject\Debug\InventoryProject.exe
